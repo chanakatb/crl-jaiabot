@@ -1,2 +1,2 @@
-# Cooperative Robotics Lab - Jaiabot Formation Control
+# Jaiabot Formation Control
 
