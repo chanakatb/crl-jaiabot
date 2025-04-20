@@ -1,2 +1,2 @@
-# crl_jaiabot
-Jaiabot Formation Control
+# Cooperative Robotics Lab - Jaiabot Formation Control
+
