@@ -1,0 +1,5 @@
+Note: Change the hub ID and Bot IDs
+
+input_parameters.py
+
+

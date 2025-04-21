@@ -1,2 +1,0 @@
-# Jaiabot Formation Control
-
